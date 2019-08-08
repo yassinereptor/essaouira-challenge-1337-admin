@@ -1,0 +1,2201 @@
+
+> shards-dashboard-lite-react@1.0.0 start /root/essaouira_challenge
+> PORT=80 react-scripts start
+
+Starting the development server...
+
+Compiled with warnings.
+
+./src/views/Articles.js
+  Line 11:  'CardFooter' is defined but never used               no-unused-vars
+  Line 13:  'Button' is defined but never used                   no-unused-vars
+  Line 51:  'PostsListTwo' is assigned a value but never used    no-unused-vars
+  Line 52:  'PostsListThree' is assigned a value but never used  no-unused-vars
+  Line 53:  'PostsListFour' is assigned a value but never used   no-unused-vars
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/views/Articles.js
+  Line 11:  'CardFooter' is defined but never used               no-unused-vars
+  Line 13:  'Button' is defined but never used                   no-unused-vars
+  Line 51:  'PostsListTwo' is assigned a value but never used    no-unused-vars
+  Line 52:  'PostsListThree' is assigned a value but never used  no-unused-vars
+  Line 53:  'PostsListFour' is assigned a value but never used   no-unused-vars
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/views/Articles.js
+  Line 11:  'CardFooter' is defined but never used               no-unused-vars
+  Line 13:  'Button' is defined but never used                   no-unused-vars
+  Line 51:  'PostsListTwo' is assigned a value but never used    no-unused-vars
+  Line 52:  'PostsListThree' is assigned a value but never used  no-unused-vars
+  Line 53:  'PostsListFour' is assigned a value but never used   no-unused-vars
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/views/Articles.js
+  Line 11:  'CardFooter' is defined but never used               no-unused-vars
+  Line 13:  'Button' is defined but never used                   no-unused-vars
+  Line 51:  'PostsListTwo' is assigned a value but never used    no-unused-vars
+  Line 52:  'PostsListThree' is assigned a value but never used  no-unused-vars
+  Line 53:  'PostsListFour' is assigned a value but never used   no-unused-vars
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/views/Articles.js
+  Line 11:  'CardFooter' is defined but never used               no-unused-vars
+  Line 13:  'Button' is defined but never used                   no-unused-vars
+  Line 51:  'PostsListTwo' is assigned a value but never used    no-unused-vars
+  Line 52:  'PostsListThree' is assigned a value but never used  no-unused-vars
+  Line 53:  'PostsListFour' is assigned a value but never used   no-unused-vars
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/views/Articles.js
+  Line 11:  'CardFooter' is defined but never used               no-unused-vars
+  Line 13:  'Button' is defined but never used                   no-unused-vars
+  Line 51:  'PostsListTwo' is assigned a value but never used    no-unused-vars
+  Line 52:  'PostsListThree' is assigned a value but never used  no-unused-vars
+  Line 53:  'PostsListFour' is assigned a value but never used   no-unused-vars
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/views/Articles.js
+  Line 11:  'CardFooter' is defined but never used               no-unused-vars
+  Line 13:  'Button' is defined but never used                   no-unused-vars
+  Line 51:  'PostsListTwo' is assigned a value but never used    no-unused-vars
+  Line 52:  'PostsListThree' is assigned a value but never used  no-unused-vars
+  Line 53:  'PostsListFour' is assigned a value but never used   no-unused-vars
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Failed to compile.
+
+./src/views/Articles.js
+Error: ENOENT: no such file or directory, open '/root/essaouira_challenge/src/views/Articles.js'
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Compiling...
+Compiled with warnings.
+
+./src/routes.js
+  Line 13:  'SignIn' is defined but never used  no-unused-vars
+
+./src/views/login.js
+  Line 2:     'Avatar' is defined but never used                                                                         no-unused-vars
+  Line 84:   'returnUrl' is assigned a value but never used                                                             no-unused-vars
+  Line 103:  'loading' is assigned a value but never used                                                               no-unused-vars
+  Line 109:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+./src/components/layout/MainFooter.js
+  Line 3:  'Nav' is defined but never used      no-unused-vars
+  Line 3:  'NavItem' is defined but never used  no-unused-vars
+  Line 3:  'NavLink' is defined but never used  no-unused-vars
+  Line 4:  'Link' is defined but never used     no-unused-vars
+
+./src/components/add-new-place/PlaceDetails.js
+  Line 3:     'PropTypes' is defined but never used       no-unused-vars
+  Line 4:     'FileBase64' is defined but never used      no-unused-vars
+  Line 25:    'MDBContainer' is defined but never used    no-unused-vars
+  Line 120:  'img64' is assigned a value but never used  no-unused-vars
+
+./src/components/add-new-post/Editor.js
+  Line 3:   'ReactQuill' is defined but never used    no-unused-vars
+  Line 23:  'MDBContainer' is defined but never used  no-unused-vars
+
+./src/App.js
+  Line 3:  'SignIn' is defined but never used  no-unused-vars
+
+./src/components/layout/MainNavbar/NavbarNav/NavbarNav.js
+  Line 4:  'Notifications' is defined but never used  no-unused-vars
+
+./src/Homepage.js
+  Line 5:   'userService' is defined but never used     no-unused-vars
+  Line 23:  'user' is assigned a value but never used   no-unused-vars
+  Line 23:  'users' is assigned a value but never used  no-unused-vars
+
+./src/views/EditArticle.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 69:  'author' is assigned a value but never used  no-unused-vars
+  Line 70:  'audio' is assigned a value but never used   no-unused-vars
+  Line 71:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/EditPlace.js
+  Line 5:   'ReactQuill' is defined but never used       no-unused-vars
+  Line 8:   'CardBody' is defined but never used         no-unused-vars
+  Line 12:  'InputGroup' is defined but never used       no-unused-vars
+  Line 18:  'InputGroupAddon' is defined but never used  no-unused-vars
+  Line 19:  'InputGroupText' is defined but never used   no-unused-vars
+  Line 28:  'MDBSelect' is defined but never used        no-unused-vars
+  Line 76:  'author' is assigned a value but never used  no-unused-vars
+  Line 78:  'region' is assigned a value but never used  no-unused-vars
+  Line 79:  'image' is assigned a value but never used   no-unused-vars
+
+./src/views/AddNewPLace.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/AddNewPost.js
+  Line 6:  'SidebarActions' is defined but never used     no-unused-vars
+  Line 7:  'SidebarCategories' is defined but never used  no-unused-vars
+
+./src/views/Places.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 13:   'NavItem' is defined but never used                                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 30:  'img' is assigned a value but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 79:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Articles.js
+  Line 9:    'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+  Line 11:   'Button' is defined but never used                                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 49:   'PostsListTwo' is assigned a value but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+  Line 50:   'PostsListThree' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 51:   'PostsListFour' is assigned a value but never used                                                                                                                                                                                                                                                                                                                no-unused-vars
+  Line 82:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+./src/views/Overview.js
+  Line 9:   'NewDraft' is defined but never used      no-unused-vars
+  Line 10:  'Discussions' is defined but never used   no-unused-vars
+  Line 11:  'TopReferrals' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Terminated
+
+npm ERR! Linux 4.15.0-52-generic
+npm ERR! argv "/usr/bin/node" "/usr/bin/npm" "start"
+npm ERR! node v8.10.0
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! shards-dashboard-lite-react@1.0.0 start: `PORT=80 react-scripts start`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the shards-dashboard-lite-react@1.0.0 start script 'PORT=80 react-scripts start'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the shards-dashboard-lite-react package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     PORT=80 react-scripts start
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs shards-dashboard-lite-react
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls shards-dashboard-lite-react
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /root/essaouira_challenge/npm-debug.log
